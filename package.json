@@ -1,0 +1,18 @@
+{
+  "name": "nvmt_den_package",
+  "version": "1.0.0",
+  "description": "This package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "nvmt_den_package"
+  ],
+  "author": "nvmt",
+  "license": "ISC"
+}
